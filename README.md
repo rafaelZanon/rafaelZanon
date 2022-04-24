@@ -2,6 +2,9 @@
 
 - 🔭 Hoje trabalho com Java
 - 🌱 Estudando Java
+- ✔  Sei algumas outras linguagens, pois aprendi na escola
+- 🥳 Estudo no Colégio Técnico de Campinas Cotuca
+- 😎 Trabalho Atualmente como estágiario na Ci&t 
 
 <div align="center">
   <a href="https://github.com/rafaelZanon">
