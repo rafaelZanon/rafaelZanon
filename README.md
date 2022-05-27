@@ -1,10 +1,12 @@
 ### Olá! Eu sou o Rafael Zanon
 
 - 🔭 Desenvolvedor Java
-- 🌱 Estudando Java
+- 😎 Estágiario na Ci&t 
+- 🌱 Formado em Java Orientação a Objetos (Alura)
+- 🔭 Estudando Spring (Java)
 - ✔  Sei algumas outras linguagens, pois aprendi na escola
 - 🥳 Estudo no Colégio Técnico de Campinas Cotuca
-- 😎 Estágiario na Ci&t 
+
 
 <div align="center">
   <a href="https://github.com/rafaelZanon">
