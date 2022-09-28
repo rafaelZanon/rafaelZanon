@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Rafael Zanon
 
-- 🔭 Desenvolvedor Java
+- 🔭 Desenvolvedor Front-End
 - 😎 Estágiario na Ci&t 
 - 🌱 Formado em Java Orientação a Objetos (Alura)
-- 🔭 Estudando Spring (Java)
+- 🔭 Estudando Angular
 - ✔  Sei algumas outras linguagens, pois aprendi na escola
 - 🥳 Estudo no Colégio Técnico de Campinas Cotuca
 
