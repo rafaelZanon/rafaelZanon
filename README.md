@@ -1,10 +1,9 @@
 ### Olá! Eu sou o Rafael Zanon
 
-- 🔭 Desenvolvedor Front-End
-- 😎 Analista de Sistemas Jr na Ci&t 
-- 🌱 Formado em Java Orientação a Objetos (Alura)
-- ✔  Sei algumas outras linguagens, pois aprendi na escola
-- 🥳 Formado no Colégio Técnico de Campinas Cotuca (Desenvolvimento de Sistemas)
+🎓 Formado pelo Colégio Técnico de Campinas Cotuca em Desenvolvimento de Sistemas
+🌐 Inglês: High-Intermediate
+🔧 Experiência em Back-end com Java e Banco de Dados Oracle
+📚 Atualmente cursando Tecnólogo de Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera
 
 
 <div align="center">
