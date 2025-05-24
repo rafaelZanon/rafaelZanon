@@ -1,8 +1,11 @@
 ### Olá! Eu sou o Rafael Zanon
 
 🎓 Formado pelo Colégio Técnico de Campinas Cotuca em Desenvolvimento de Sistemas
+
 🌐 Inglês: High-Intermediate
+
 🔧 Experiência em Back-end com Java e Banco de Dados Oracle
+
 📚 Atualmente cursando Tecnólogo de Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera
 
 
